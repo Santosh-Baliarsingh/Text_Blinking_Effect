@@ -1,0 +1,1 @@
+Note:- In This Project i've used the keyframe-animation to add the blinking effect text shadow to the text but The text shadow will work only in Chrome browser .In mozilla browser only blinking effect will work .If you want to see the text shadow please use in chrome Browser.
